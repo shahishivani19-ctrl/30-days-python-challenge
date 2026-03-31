@@ -13,7 +13,7 @@ This repository contains my solutions to daily Python problems for 30 days.
 |-----|--------|----------|
 | Day 1 | [View](Day-01/problem.md) | [Code](Day-01/solution.py) |
 | Day 2 | [View](Day-02/problem.md) | [Code](Day-02/solution.py) |
-
+| Day 3 | [view](Day-03/problem.md) | [code](Day-03/solution.py) |
 (continue till Day 30)
 
 ## 🧠 Topics Covered
