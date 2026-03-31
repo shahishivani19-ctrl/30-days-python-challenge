@@ -7,5 +7,5 @@ Take an integer input and check whether it is palindrome or not.
 Input: 121
 Output: Palindrome
 
-Input: 123
+Input: 1234
 output: Not Palindrome
