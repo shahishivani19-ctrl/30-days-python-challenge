@@ -1,4 +1,4 @@
-# Day 4
+# Day 3
 
 ## Problem
 Take an integer input and check whether it is palindrome or not.
