@@ -1,4 +1,4 @@
-# Day 5
+# Day 4
 
 ## Problem
 Take an integer input and check whether it is a prime number or not.
